@@ -335,8 +335,7 @@ html {
 }
 
 .cursors {
-    position: absolute;
-    background-image: url("/icons/right-arrow.svg");
+    position: absolute;    
     background-size: cover;
     background-repeat: no-repeat;
     height: min(130px, 20vw);
