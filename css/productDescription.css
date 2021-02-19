@@ -375,8 +375,7 @@ html {
 .smallCarousel .goBack {
     align-self: flex-start;
     justify-self: flex-start;
-    position: absolute;
-    background-image: url("\\icons\\right-arrow.svg");
+    position: absolute;    
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 25px 25px;
