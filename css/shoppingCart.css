@@ -228,8 +228,7 @@ html {
     width: auto;
 }
 
-.column:nth-child(1) .delete-btn .delete-image {
-    background-image: url("\\images\\cross.png");
+.column:nth-child(1) .delete-btn .delete-image {    
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
